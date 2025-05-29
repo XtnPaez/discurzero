@@ -60,6 +60,7 @@ Ecosistema Transmedia (Inspiración LOST):
 - Cuenta Principal (Twitter): Núcleo de la actividad.
 - Micro-sitio Web (Opcional, posterior): Presentación del "movimiento" o "partido", manifiesto vago, biografía enigmática.
 - Contenido Multimedia Sutil (Opcional, posterior): Clips cortos, imágenes generadas/editadas con IA que refuercen la narrativa.
+- Canal de Difusión en WhatsApp + Pack de Stickers del Candidato IA (Indispensable).
 
 Objetivo Demostrativo (Máximo Nivel):
 
